@@ -50,4 +50,5 @@ Example data: (예시 데이터:)
 2. **API Call:** The Streamlit app sends a request to the FastAPI endpoint with the entered features. (API 호출: FastAPI에 요청 전송)
 3. **Prediction:** The FastAPI endpoint uses the trained model to predict the car price. (예측: 훈련된 모델로 가격 예측)
 4. **Result Display:** The predicted price is displayed on the Streamlit interface. (결과 표시: 예측된 가격 표시)
+![prediction_result](/streamlitcar.png)
 
